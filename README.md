@@ -1,5 +1,6 @@
 # Simple-Modern-Website
  
- This is a website I have made while learning how to use jQuery and Bootstrap Framework.
+ This is a website I made while learning how to use jQuery and Bootstrap Framework.
  
- The site is responsive thanks to the super flexible properties of Bootstrap.
+ I've built this website by following a course, but the course was using Bootstrap 3.
+ I used Bootstrap 4 because that was the latest one and fixed all the compatibility issues.
